@@ -1,0 +1,64 @@
+
+
+.card{
+ 
+  width: 440px;
+  height: 260px;
+  border-radius: 1.3rem;
+  margin-left: 23%;
+  background:#4BECA3;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.companyName{
+  color: white;
+}
+.companyName h3{
+  text-align: right;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+.cardPuce{
+  text-align: left;
+}
+.cardPuce img{
+  width: 4rem;
+  height: 3rem;
+  margin-left: 0.5rem;
+  border-radius: 10px;
+
+}
+.cardNumber{
+  color: white;
+}
+.cardNumber p{
+  text-align: left;
+  margin-left: 1rem;
+  font-size: 25px;
+  margin-top: 0.6rem;
+  margin-bottom: 0.4rem;
+  margin-left: 0.5rem;
+
+}
+
+.date{
+  text-align: right;
+  color: white;
+  margin-top: 0.5rem;
+  margin-right: 1.5rem;
+}
+.holderName{
+  color: white;
+  margin-left: 1.5rem;
+}
+
+.right-bottomSection{
+  min-width: 70%;
+
+}
+.zi{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
